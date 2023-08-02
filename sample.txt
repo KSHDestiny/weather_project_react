@@ -1,0 +1,7 @@
+API     =>  https://openweathermap.org
+Icons   =>  npm i react-icons
+Axios   =>  npm i axios
+
+API key : a1e4eeba780368cd9993d7030da3dbaa
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
